@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+||static.vrv.co^$media,xhr,domain=crunchyroll.com
+||s-static.innovid.com^$media,xhr,domain=crunchyroll.com
+||scontent-ort2-2.xx.fbcdn.net^$media,xhr,domain=crunchyroll.com
+||media.bidr.io^$media,xhr,domain=crunchyroll.com
+||r1---sn-ab5szn7s.c.2mdn.net^$media,xhr,domain=crunchyroll.com
+||5fd74.v.fwmrm.net^$media,xhr,domain=crunchyroll.com
