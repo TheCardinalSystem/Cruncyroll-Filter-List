@@ -6,9 +6,9 @@
 ! Homepage: https://github.com/TheCardinalSystem/Cruncyroll-Filter-List
 !
 ||static.vrv.co^$domain=crunchyroll.com
-||s-static.innovid.com^$domain=crunchyroll.com
-||scontent-ort2-2.xx.fbcdn.net^$domain=crunchyroll.com
+||innovid.com^$domain=crunchyroll.com
+||fbcdn.net^$domain=crunchyroll.com
 ||media.bidr.io^$domain=crunchyroll.com
-||r1---sn-ab5szn7s.c.2mdn.net^$domain=crunchyroll.com
-||5fd74.v.fwmrm.net^$domain=crunchyroll.com
-||ads.stickyadstv.com^$domain=crunchyroll.com
+||2mdn.net^$domain=crunchyroll.com
+||fwmrm.net^$domain=crunchyroll.com
+||stickyadstv.com^$domain=crunchyroll.com
