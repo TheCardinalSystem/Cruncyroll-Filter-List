@@ -12,3 +12,4 @@
 ||2mdn.net^$media,xmlhttprequest,domain=crunchyroll.com
 ||fwmrm.net^$media,xmlhttprequest,domain=crunchyroll.com
 ||stickyadstv.com^$media,xmlhttprequest,domain=crunchyroll.com
+||facebook.com/rtb_video^$media,xmlhttprequest,domain=crunchyroll.com
