@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Version:
-! Title:
-! Last modified:
+! Version: 
+! Title: Crunchyroll Anti-Circumvention filters
+! Last modified: 25 Apr 2019 01:50 UTC
 ! Expires: 4 days (update frequency)
-! Homepage:
+! Homepage: https://github.com/TheCardinalSystem/Cruncyroll-Filter-List
 !
 ||static.vrv.co^$domain=crunchyroll.com
 ||s-static.innovid.com^$domain=crunchyroll.com
