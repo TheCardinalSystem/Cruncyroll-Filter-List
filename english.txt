@@ -11,3 +11,4 @@
 ||media.bidr.io^$domain=crunchyroll.com
 ||r1---sn-ab5szn7s.c.2mdn.net^$domain=crunchyroll.com
 ||5fd74.v.fwmrm.net^$domain=crunchyroll.com
+||ads.stickyadstv.com^$domain=crunchyroll.com
