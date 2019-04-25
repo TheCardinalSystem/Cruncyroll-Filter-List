@@ -5,7 +5,7 @@
 ! Expires: 4 days (update frequency)
 ! Homepage:
 !
-||static.vrv.co^$media,xhr,domain=crunchyroll.com
+||static.vrv.co^
 ||s-static.innovid.com^$media,xhr,domain=crunchyroll.com
 ||scontent-ort2-2.xx.fbcdn.net^$media,xhr,domain=crunchyroll.com
 ||media.bidr.io^$media,xhr,domain=crunchyroll.com
