@@ -7,7 +7,7 @@
 !
 ||static.vrv.co^$media,xmlhttprequest,domain=crunchyroll.com
 ||innovid.com^$media,xmlhttprequest,domain=crunchyroll.com
-||scontent-ort2-2.xx.fbcdn.net^$media,xmlhttprequest,domain=crunchyroll.com
+||scontent-ort2-2.xx.fbcdn.net^$domain=crunchyroll.com
 ||media.bidr.io^$media,xmlhttprequest,domain=crunchyroll.com
 ||2mdn.net^$media,xmlhttprequest,domain=crunchyroll.com
 ||fwmrm.net^$media,xmlhttprequest,domain=crunchyroll.com
