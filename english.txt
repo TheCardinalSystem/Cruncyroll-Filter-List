@@ -5,7 +5,7 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/TheCardinalSystem/Cruncyroll-Filter-List
 !
-||static.vrv.co^$media,xmlhttprequest,domain=crunchyroll.com
+||static.vrv.co^$domain=crunchyroll.com
 ||innovid.com^$media,xmlhttprequest,domain=crunchyroll.com
 ||scontent-ort2-2.xx.fbcdn.net^$domain=crunchyroll.com
 ||media.bidr.io^$media,xmlhttprequest,domain=crunchyroll.com
