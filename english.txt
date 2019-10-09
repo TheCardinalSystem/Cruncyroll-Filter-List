@@ -14,4 +14,4 @@
 ||stickyadstv.com^$,domain=crunchyroll.com
 ||facebook.com/audience_network/*$domain=crunchyroll.com
 ||facebook.com/rtb_video/*$domain=crunchyroll.com
-||facebook.com^*/instream/*$domain=crunchyroll.com
+||facebook.com^*/instream/
