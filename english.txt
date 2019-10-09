@@ -11,7 +11,7 @@
 ||media.bidr.io^$domain=crunchyroll.com
 ||2mdn.net^$domain=crunchyroll.com
 ||fwmrm.net^$domain=crunchyroll.com
-||stickyadstv.com^$,domain=crunchyroll.com
+||stickyadstv.com^$domain=crunchyroll.com
 ||facebook.com/audience_network^$domain=crunchyroll.com
 ||facebook.com/rtb_video^$domain=crunchyroll.com
 ||facebook.com/v1/instream^$domain=crunchyroll.com
